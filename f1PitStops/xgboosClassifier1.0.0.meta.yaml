@@ -1,5 +1,9 @@
-version: "1.0.0"
-dataset: "house-prices-v2"
-auc_test: 0.9495
-owner: "orlando.junior"
-created_at: "2026-05-06"
+models:
+  - version: "1.0.0"
+    artifact: "f1PitStops/xgboosClassifier1.0.0.pkl"
+    dvc_file: "f1PitStops/xgboosClassifier1.0.0.pkl.dvc"
+    dataset: "house-prices-v2"
+    auc_test: 0.9495
+    owner: "orlando.junior"
+    created_at: "2026-05-06"
+    stage: "production"
