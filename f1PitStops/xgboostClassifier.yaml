@@ -1,0 +1,11 @@
+models:
+
+version: "1.0.0"
+    artifact: "f1PitStops/xgboostClassifier.pkl"
+    dvc_file: "f1PitStops/xgboostClassifier.pkl.dvc"
+    dataset: "house-prices-v2"
+    auc_test: 0.9480
+    owner: "orlando.junior"
+    created_at: "2026-05-06"
+    stage: "production"
+  hash: "68be8290c3fea17d056d9b3958aabcb7"
