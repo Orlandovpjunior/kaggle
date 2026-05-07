@@ -1,5 +1,0 @@
-outs:
-- md5: 3afdeabb641b4833f25003da8315f1c2
-  size: 10086499
-  hash: md5
-  path: xgboosClassifier1.0.0.pkl
